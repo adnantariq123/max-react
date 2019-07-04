@@ -153,7 +153,7 @@ class App extends Component {
       <StyleRoot>
       and cause we are doing CSS modules now we have to git ride of Radium*/
     <div className="App">
-        <h1>Coming from ./styling/styling</h1>
+        <h1>Coming from ./styling/styling (with GIT)</h1>
         {/* the className={classes.join(' ')} 
           the .join(' ') MUST HAVE A FUCKING SPACE to keep the classes seprate*/}
         <p className={classes.join(' ')}>from chapters 63 onwards</p>
